@@ -27,4 +27,5 @@ Attrition rates broken down by gender and age groups, highlighting demographic t
 Job satisfaction ratings across various roles, providing insights into employee morale.
 
 This dashboard leverages Tableau’s powerful data visualization and interactive capabilities to provide meaningful insights into HR data, aiding in strategic decision-making.
+
 Author- Rashmi Paturkar
