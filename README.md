@@ -1,4 +1,4 @@
-# Human-Resource-Analytics-Dashboard-Using-Tableau
+# Human-Resource-Analytics-Using-Tableau
 This Tableau dashboard provides an in-depth analysis of HR metrics, including employee count, attrition rate, and job satisfaction.
 Key components include:
 
